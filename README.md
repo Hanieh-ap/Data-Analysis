@@ -9,7 +9,7 @@ Since the embedding model was so big we uploaded it on google drive. To access t
 To train and test the model for each architecture there is a python script. The "code" directory contains all architecture codes. 
 It worth to mention that all architectures need text2vec.py file to be executed. So, please put it in the same directory of the model you want to run.
 
-If you want to train a new embdding layer please use embed_fasttext.py 
+If you want to train a new embdding layer please use embed_fasttext.py. Users should provide their own text corpus.
 
 Also, the data directory contains the data for training and test for this project. 
 To run any model please change the pathes in the codes.

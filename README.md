@@ -6,7 +6,7 @@ Developing a Language Model using FastText Tokenizer
 Since the embedding model was so big we uploaded it on google drive. To access the model you can use the link below.
 
 
-https://drive.google.com/drive/folders/1ZbJ5YhJWq64L8gKNgsBYrraGWjqUEzHO?usp=sharing
+https://drive.google.com/file/d/1b12ZOcpdYScxnvPTGTdlnAEMJlaMMl0G/view?usp=sharing
 
 
 To train and test the model for each architecture there is a python script. The "code" directory contains all architecture codes. 
